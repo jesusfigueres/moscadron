@@ -1,3 +1,3 @@
 # moscadron
 
-Slam code for trello drone
+Slam code for tello drone
